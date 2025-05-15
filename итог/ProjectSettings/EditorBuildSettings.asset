@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 898a58bcddba3514aa314deeffe3d055
+  - enabled: 1
+    path: Assets/Scenes/lvl1.unity
+    guid: 03fd40f310501c94f9956754a615fd70
+  - enabled: 1
+    path: Assets/Scenes/lvl2.unity
+    guid: 41ea9655c02b1994d8b531fa782a0351
+  - enabled: 1
+    path: Assets/Scenes/lvl3.unity
+    guid: 6febe8866128ccb48880d00ef19d8d69
+  - enabled: 1
+    path: Assets/Scenes/lvl4.unity
+    guid: be431e2d12aea2841b1bb88b9419f90c
+  - enabled: 1
+    path: Assets/Scenes/FinishCutscene.unity
+    guid: 11aa81d4d5b00d440bbca3e00200fe2c
+  - enabled: 1
+    path: Assets/Scenes/FinishCutttttt.unity
+    guid: eaa7b8af80890b346aa69accb5e13b14
+  - enabled: 1
+    path: Assets/Scenes/FINISH.unity
+    guid: 5d181479d0298b540b55954b23dacc31
+  m_configObjects: {}
